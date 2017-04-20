@@ -1,5 +1,22 @@
 /*stlying*/
 
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
 body {
-    background: rgba(198, 240, 131, 0.87);
+    background: black;
+    
+}
+
+
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family:  'Permanent Marker', cursive;
+}
+iframe {
+  max-width: 100%;
+  width: 100%;
 }
